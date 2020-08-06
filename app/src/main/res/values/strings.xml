@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTutor</string>
+    <string name="designed_by_tom_s_mota">Designed by Tomás Mota</string>
+    <string name="mytutor">MyTutor</string>
+    <string name="welcome">Welcome</string>
+    <string name="ano_escolar">Ano Escolar</string>
+    <string name="Ano_escolar">Ano_escolar:</string>
+    <string name="_5">5 º</string>
+    <string name="geography">Geography</string>
+</resources>
